@@ -1,0 +1,30 @@
+.color-example {
+    color: blue; /* Change to your favorite color (named color) */
+    background-color: #ffcc00; /* Contrasting color in hexadecimal */
+    border: 2px solid green; /* Border with chosen color and thickness */
+}
+
+.header-example {
+    font-size: 2em; /* Change font size */
+    font-family: 'Arial', sans-serif; /* Change font family */
+    color: darkred; /* Change text color */
+}
+
+.list-example {
+    list-style-type: square; /* Change bullet point style */
+    color: purple; /* Change text color */
+}
+
+.text-example {
+    font-family: 'Georgia', serif; /* Different font family */
+    font-size: 1.05em; /* Larger font size */
+    text-transform: capitalize; /* Capitalize text */
+    text-decoration: underline; /* Underline text */
+}
+
+.div-example {
+    background-color: #f0f0f0; /* Light gray background color */
+    border: 2px solid rgba(0, 0, 0, 0.866); /* Black border with specified thickness */
+    padding: 10px; /* Padding for spacing inside the div */
+    margin-top: 20px; /* Optional: add space above the div */
+}
